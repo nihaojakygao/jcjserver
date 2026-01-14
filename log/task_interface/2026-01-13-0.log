@@ -1,0 +1,337 @@
+2026-01-13 12:00:02.091 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据 开始++++++++++++++++
+2026-01-13 12:00:02.091 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 12:00:02.107 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 12:00:02.122 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 12:00:02.122 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.169 是否需要更新警员数据
+2026-01-13 12:00:02.122 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.169 为解锁状态（state=1)
+2026-01-13 12:00:02.138 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 12:00:02.138 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据  结束++++++++++++++++
+2026-01-13 12:00:04.146 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新人员数据开始++++++++++++++++
+2026-01-13 12:00:04.178 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 12:00:04.193 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 12:00:04.193 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新在押人员数据  结束++++++++++++++++
+2026-01-13 13:41:50.536 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据 开始++++++++++++++++
+2026-01-13 13:41:50.536 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 13:41:50.543 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 13:41:50.548 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 13:41:50.548 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.169 是否需要更新警员数据
+2026-01-13 13:41:50.558 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.169 为解锁状态（state=1)
+2026-01-13 13:41:50.572 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 13:41:50.572 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据  结束++++++++++++++++
+2026-01-13 13:41:52.585 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新人员数据开始++++++++++++++++
+2026-01-13 13:41:52.591 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 13:41:52.608 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 13:41:52.614 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新在押人员数据  结束++++++++++++++++
+2026-01-13 14:40:02.040 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新人员数据开始++++++++++++++++
+2026-01-13 14:40:02.045 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 14:40:02.058 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.144 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 14:40:02.064 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 14:40:02.071 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新在押人员数据  结束++++++++++++++++
+2026-01-13 14:40:04.081 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据 开始++++++++++++++++
+2026-01-13 14:40:04.081 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 14:40:04.086 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 14:40:04.093 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 14:40:04.093 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 14:40:04.099 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 14:40:04.102 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 14:40:04.102 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.169 是否需要更新警员数据
+2026-01-13 14:40:04.107 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.169 为解锁状态（state=1)
+2026-01-13 14:40:04.112 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 14:40:04.112 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据  结束++++++++++++++++
+2026-01-13 15:00:02.026 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据 开始++++++++++++++++
+2026-01-13 15:00:02.026 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 15:00:02.034 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 15:00:02.040 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 15:00:02.040 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 15:00:02.048 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 15:00:02.055 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 15:00:02.055 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 15:00:02.062 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 15:00:02.067 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 15:00:02.067 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 15:00:02.071 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 15:00:02.076 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 15:00:02.076 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.138 是否需要更新警员数据
+2026-01-13 15:00:02.079 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 15:00:02.079 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.169 是否需要更新警员数据
+2026-01-13 15:00:02.084 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.169 为解锁状态（state=1)
+2026-01-13 15:00:02.089 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 15:00:02.089 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据  结束++++++++++++++++
+2026-01-13 15:00:04.095 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新人员数据开始++++++++++++++++
+2026-01-13 15:00:04.103 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 15:00:04.116 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 15:00:04.126 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 15:00:04.134 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 15:00:04.143 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 15:00:04.148 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 15:00:04.152 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新在押人员数据  结束++++++++++++++++
+2026-01-13 15:20:02.080 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据 开始++++++++++++++++
+2026-01-13 15:20:02.080 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 15:20:02.091 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 15:20:02.100 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 15:20:02.100 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 15:20:02.108 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 15:20:02.116 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 15:20:02.116 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 15:20:02.136 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 15:20:02.147 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 15:20:02.147 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 15:20:02.160 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 15:20:02.178 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 15:20:02.178 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.138 是否需要更新警员数据
+2026-01-13 15:20:02.190 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 15:20:02.190 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.169 是否需要更新警员数据
+2026-01-13 15:20:02.205 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.169 为解锁状态（state=1)
+2026-01-13 15:20:02.214 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 15:20:02.214 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据  结束++++++++++++++++
+2026-01-13 15:20:04.236 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新人员数据开始++++++++++++++++
+2026-01-13 15:20:04.241 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 15:20:04.254 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 15:20:04.264 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 15:20:04.272 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 15:20:04.283 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 15:20:04.288 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 15:20:04.294 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新在押人员数据  结束++++++++++++++++
+2026-01-13 15:40:02.057 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据 开始++++++++++++++++
+2026-01-13 15:40:02.057 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 15:40:02.061 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 15:40:02.071 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 15:40:02.071 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 15:40:02.076 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 15:40:02.076 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 15:40:02.076 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 15:40:02.083 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 15:40:02.087 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 15:40:02.087 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 15:40:02.092 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 15:40:02.098 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 15:40:02.098 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.138 是否需要更新警员数据
+2026-01-13 15:40:02.105 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 15:40:02.105 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.169 是否需要更新警员数据
+2026-01-13 15:40:02.109 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.169 为解锁状态（state=1)
+2026-01-13 15:40:02.114 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 15:40:02.114 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据  结束++++++++++++++++
+2026-01-13 15:40:04.134 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新人员数据开始++++++++++++++++
+2026-01-13 15:40:04.140 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 15:40:04.157 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 15:40:04.165 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 15:40:04.177 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 15:40:04.186 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 15:40:04.191 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 15:40:04.196 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新在押人员数据  结束++++++++++++++++
+2026-01-13 16:00:02.034 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据 开始++++++++++++++++
+2026-01-13 16:00:02.034 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 16:00:02.034 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 16:00:02.050 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 16:00:02.050 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 16:00:02.050 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 16:00:02.050 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 16:00:02.050 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 16:00:02.066 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 16:00:02.066 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 16:00:02.066 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 16:00:02.066 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 16:00:02.081 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 16:00:02.081 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.138 是否需要更新警员数据
+2026-01-13 16:00:02.081 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 16:00:02.081 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.169 是否需要更新警员数据
+2026-01-13 16:00:02.081 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.169 为解锁状态（state=1)
+2026-01-13 16:00:02.097 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 16:00:02.097 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据  结束++++++++++++++++
+2026-01-13 16:00:04.112 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新人员数据开始++++++++++++++++
+2026-01-13 16:00:04.128 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 16:00:04.145 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 16:00:04.145 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 16:00:04.168 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 16:00:04.177 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 16:00:04.177 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 16:00:04.192 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新在押人员数据  结束++++++++++++++++
+2026-01-13 16:20:02.039 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据 开始++++++++++++++++
+2026-01-13 16:20:02.039 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 16:20:02.039 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 16:20:02.039 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 16:20:02.039 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 16:20:02.054 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 16:20:02.054 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 16:20:02.054 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 16:20:02.054 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 16:20:02.070 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 16:20:02.070 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 16:20:02.070 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 16:20:02.070 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 16:20:02.070 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.138 是否需要更新警员数据
+2026-01-13 16:20:02.070 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 16:20:02.070 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.169 是否需要更新警员数据
+2026-01-13 16:20:02.086 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.169 为解锁状态（state=1)
+2026-01-13 16:20:02.086 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 16:20:02.086 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据  结束++++++++++++++++
+2026-01-13 16:20:04.101 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新人员数据开始++++++++++++++++
+2026-01-13 16:20:04.101 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 16:20:04.117 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 16:20:04.132 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 16:20:04.148 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 16:20:04.148 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 16:20:04.164 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 16:20:04.164 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新在押人员数据  结束++++++++++++++++
+2026-01-13 16:40:02.062 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新人员数据开始++++++++++++++++
+2026-01-13 16:40:02.067 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 16:40:02.077 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 16:40:02.088 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 16:40:02.099 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 16:40:02.111 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 16:40:02.117 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 16:40:02.122 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新在押人员数据  结束++++++++++++++++
+2026-01-13 16:40:04.141 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据 开始++++++++++++++++
+2026-01-13 16:40:04.141 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 16:40:04.148 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 16:40:04.156 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 16:40:04.156 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 16:40:04.160 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 16:40:04.164 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 16:40:04.164 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 16:40:04.169 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 16:40:04.173 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 16:40:04.173 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 16:40:04.181 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 16:40:04.185 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 16:40:04.185 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.138 是否需要更新警员数据
+2026-01-13 16:40:04.190 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 16:40:04.190 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.169 是否需要更新警员数据
+2026-01-13 16:40:04.194 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.169 为解锁状态（state=1)
+2026-01-13 16:40:04.199 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 16:40:04.199 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据  结束++++++++++++++++
+2026-01-13 17:00:02.060 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新人员数据开始++++++++++++++++
+2026-01-13 17:00:02.067 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 17:00:02.081 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 17:00:02.096 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 17:00:02.106 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 17:00:02.118 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 17:00:02.123 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 17:00:02.131 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新在押人员数据  结束++++++++++++++++
+2026-01-13 17:00:04.146 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据 开始++++++++++++++++
+2026-01-13 17:00:04.146 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 17:00:04.151 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 17:00:04.159 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 17:00:04.159 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 17:00:04.163 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 17:00:04.171 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 17:00:04.171 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 17:00:04.177 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 17:00:04.184 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 17:00:04.184 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 17:00:04.187 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 17:00:04.192 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 17:00:04.192 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.138 是否需要更新警员数据
+2026-01-13 17:00:04.197 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 17:00:04.197 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.169 是否需要更新警员数据
+2026-01-13 17:00:04.201 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.169 为解锁状态（state=1)
+2026-01-13 17:00:04.204 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 17:00:04.204 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据  结束++++++++++++++++
+2026-01-13 17:20:02.068 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新人员数据开始++++++++++++++++
+2026-01-13 17:20:02.074 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 17:20:02.084 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 17:20:02.094 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 17:20:02.105 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 17:20:02.114 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 17:20:02.118 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 17:20:02.123 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新在押人员数据  结束++++++++++++++++
+2026-01-13 17:20:04.131 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据 开始++++++++++++++++
+2026-01-13 17:20:04.131 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 17:20:04.136 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 17:20:04.143 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 17:20:04.143 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 17:20:04.148 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 17:20:04.152 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 17:20:04.152 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 17:20:04.157 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 17:20:04.163 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 17:20:04.163 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 17:20:04.168 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 17:20:04.171 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 17:20:04.171 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.138 是否需要更新警员数据
+2026-01-13 17:20:04.177 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 17:20:04.177 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.169 是否需要更新警员数据
+2026-01-13 17:20:04.184 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.169 为解锁状态（state=1)
+2026-01-13 17:20:04.189 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 17:20:04.189 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据  结束++++++++++++++++
+2026-01-13 17:47:19.592 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新人员数据开始++++++++++++++++
+2026-01-13 17:47:19.592 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 17:47:19.623 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 17:47:19.639 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 17:47:19.655 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 17:47:19.655 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 17:47:19.670 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 17:47:19.670 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新在押人员数据  结束++++++++++++++++
+2026-01-13 17:47:21.686 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据 开始++++++++++++++++
+2026-01-13 17:47:21.686 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 17:47:21.686 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 17:47:21.686 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 17:47:21.686 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 17:47:21.701 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 17:47:21.701 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 17:47:21.701 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 17:47:21.701 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 17:47:21.701 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 17:47:21.701 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 17:47:21.717 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 17:47:21.717 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 17:47:21.717 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.138 是否需要更新警员数据
+2026-01-13 17:47:21.717 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 17:47:21.717 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.169 是否需要更新警员数据
+2026-01-13 17:47:21.717 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.169 为解锁状态（state=1)
+2026-01-13 17:47:21.732 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 17:47:21.732 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据  结束++++++++++++++++
+2026-01-13 18:00:02.070 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据 开始++++++++++++++++
+2026-01-13 18:00:02.070 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 18:00:02.075 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 18:00:02.081 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 18:00:02.081 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 18:00:02.087 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 18:00:02.088 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 18:00:02.088 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 18:00:02.096 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 18:00:02.101 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 18:00:02.101 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 18:00:02.102 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 18:00:02.107 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 18:00:02.107 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.138 是否需要更新警员数据
+2026-01-13 18:00:02.111 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 18:00:02.111 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.169 是否需要更新警员数据
+2026-01-13 18:00:02.116 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.169 为解锁状态（state=1)
+2026-01-13 18:00:02.121 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 18:00:02.121 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据  结束++++++++++++++++
+2026-01-13 18:00:04.136 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新人员数据开始++++++++++++++++
+2026-01-13 18:00:04.142 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 18:00:04.148 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 18:00:04.153 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 18:00:04.163 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 18:00:04.174 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 18:00:04.178 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 18:00:04.183 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新在押人员数据  结束++++++++++++++++
+2026-01-13 19:00:14.493 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据 开始++++++++++++++++
+2026-01-13 19:00:14.493 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 19:00:14.493 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 19:00:14.493 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 19:00:14.493 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 19:00:14.508 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 19:00:14.508 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 19:00:14.508 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.134 是否需要更新警员数据
+2026-01-13 19:00:14.508 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.134 为解锁状态（state=1)
+2026-01-13 19:00:14.508 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 19:00:14.508 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.144 是否需要更新警员数据
+2026-01-13 19:00:14.524 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.144 为解锁状态（state=1)
+2026-01-13 19:00:14.524 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 19:00:14.524 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.138 是否需要更新警员数据
+2026-01-13 19:00:14.524 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 19:00:14.524 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++开始检验 监所号：   IP:172.16.40.169 是否需要更新警员数据
+2026-01-13 19:00:14.524 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：   IP:172.16.40.169 为解锁状态（state=1)
+2026-01-13 19:00:14.540 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监所号：  为解锁状态，但没有需要更新的警员数据,不通知监仓机
+2026-01-13 19:00:14.540 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新警员数据  结束++++++++++++++++
+2026-01-13 19:00:16.555 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新人员数据开始++++++++++++++++
+2026-01-13 19:00:16.555 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 19:00:16.571 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 19:00:16.586 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 19:00:16.586 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号： '35072111199995','35072111199996'
+2026-01-13 19:00:16.602 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++结束检验 监所号：   IP:172.16.40.138 ：没有相应的通知配置，或者为加锁转态。
+2026-01-13 19:00:16.602 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - 监室号1： 35072111199996
+2026-01-13 19:00:16.618 logback [pool-2-thread-1] INFO  c.j.m.taskService.NotifyTaskService - +++++++++++++通知监仓机更新在押人员数据  结束++++++++++++++++
